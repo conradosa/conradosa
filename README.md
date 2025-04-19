@@ -33,12 +33,12 @@ Here's a snapshot of the technologies I work with:
 * **Tools & Environments:**
     * ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
     * ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-    * ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ---
+    * ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 
 ### What I'm Currently Exploring
 
-* *[Django]*
-* *[Aeria]*
+* *Django*
+* *Aeria*
 
 ---
 
@@ -50,4 +50,4 @@ Here's a snapshot of the technologies I work with:
 
 ### How to Reach Me
 
-* ![LinkedIn](www.linkedin.com/in/conrado-aveline-02361123b)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/conrado-aveline-02361123b) ```
