@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/conradosa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradosa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
+# Hi, there!
 
 ---
 
@@ -11,6 +7,12 @@ Passionate **Full-Stack Developer** focused on building robust, scalable, and us
 ---
 
 ### Skills & Technologies
+
+<p align="center">
+  <a href="https://github.com/conradosa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradosa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
 
 Here's a snapshot of the technologies I work with:
 
