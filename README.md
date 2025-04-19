@@ -8,7 +8,7 @@ Passionate **Full-Stack Developer** focused on building robust, scalable, and us
 
 ### Skills & Technologies
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/conradosa">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradosa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
