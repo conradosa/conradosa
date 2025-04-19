@@ -50,4 +50,4 @@ Here's a snapshot of the technologies I work with:
 
 ### How to Reach Me
 
-* ![LinkedIn](www.linkedin.com/in/conrado-aveline-02361123b) * * * ---
+* ![LinkedIn](www.linkedin.com/in/conrado-aveline-02361123b)
