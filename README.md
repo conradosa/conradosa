@@ -1,21 +1,21 @@
-# Hi there, I'm Conrado Aveline 👋
+# Hi there, I'm Conrado Aveline
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/conradosa">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Conrado's GitHub stats" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/conradosa">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
 ---
 
-I'm a passionate **Full-Stack Developer** focused on building robust, scalable, and user-friendly web applications. I enjoy working across the entire stack, from crafting intuitive user interfaces to designing efficient back-end logic and databases.
+I'm a passionate **Full-Stack Developer** focused on building robust, scalable, and user-friendly web applications.
 
 ---
 
-### 🚀 Skills & Technologies
+### Skills & Technologies
 
 Here's a snapshot of the technologies I work with:
 
@@ -35,24 +35,19 @@ Here's a snapshot of the technologies I work with:
     * ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
     * ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ---
 
-### 🌱 What I'm Currently Exploring
+### What I'm Currently Exploring
 
-* *[Optional: Mention a new technology, framework, or concept you are learning, e.g., "Exploring microservices architecture"]*
-* *[Optional: Mention a specific project type or challenge you're interested in]*
-
----
-
-### 🔭 Current Focus
-
-* *[Optional: Mention a specific project you're working on, e.g., "Building a real-time chat application with Node.js and Socket.IO"]*
-* *[Optional: Mention contributing to open source or personal projects]*
+* *[Django]*
+* *[Aeria]*
 
 ---
 
-### 📫 How to Reach Me
+### Current Focus
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) * * * ---
+* ![AI](https://github.com/OPENAI)
 
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+---
+
+### How to Reach Me
+
+* [![LinkedIn](www.linkedin.com/in/conrado-aveline-02361123b) * * * ---
