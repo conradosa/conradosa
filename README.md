@@ -1,5 +1,3 @@
-# Hi there, I'm Conrado Aveline
-
 <p align="center">
   <a href="https://github.com/conradosa">
     <img src="https://github-readme-stats.vercel.app/api?username=conradosa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Conrado's GitHub stats" />
@@ -11,7 +9,7 @@
 
 ---
 
-I'm a passionate **Full-Stack Developer** focused on building robust, scalable, and user-friendly web applications.
+Passionate **Full-Stack Developer** focused on building robust, scalable, and user-friendly web applications.
 
 ---
 
