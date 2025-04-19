@@ -12,6 +12,8 @@ Passionate **Full-Stack Developer** focused on building robust, scalable, and us
   </a>
 </p>
 
+---
+
 Here's a snapshot of the technologies I work with:
 
 * **Languages:**
