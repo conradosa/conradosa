@@ -1,5 +1,3 @@
-# Hello there!
-
 ---
 
 Passionate **Full-Stack Developer** focused on building robust, scalable, and user-friendly web applications.
