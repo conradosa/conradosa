@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/conradosa">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Conrado's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=conradosa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Conrado's GitHub stats" />
   </a>
   <a href="https://github.com/conradosa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradosa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
