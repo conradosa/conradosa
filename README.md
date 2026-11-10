@@ -102,4 +102,4 @@ I'm especially interested in how AI can enhance traditional applications through
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/conrado-aveline-02361123b)
 
-*Always learning. Always building.* 🚀
+*Always learning. Always building.*
